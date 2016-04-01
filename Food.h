@@ -25,5 +25,5 @@ namespace Gaming {
 
 }
 
-
+#include "Food.cpp"
 #endif //PA5GAME_FOOD_H

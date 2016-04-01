@@ -6,8 +6,6 @@
 // Created by Ivo Georgiev on 11/13/15.
 //
 
-#include "ErrorContext.h"
-
 /**
  * Acknowledgement: Donnie Pinkston, CALTECH
  */

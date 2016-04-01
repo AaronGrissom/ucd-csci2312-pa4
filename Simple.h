@@ -26,5 +26,5 @@ namespace Gaming {
 
     };
 }
-
+#include"Simple.cpp"
 #endif //PA5GAME_SIMPLE_H

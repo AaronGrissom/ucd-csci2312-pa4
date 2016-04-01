@@ -38,5 +38,5 @@ namespace Gaming {
 
 }
 
-
+#include "Resource.cpp"
 #endif //PA5GAME_RESOURCE_H

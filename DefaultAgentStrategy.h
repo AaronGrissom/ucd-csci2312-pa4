@@ -18,5 +18,5 @@ namespace Gaming {
     };
 
 }
-
+#include "DefaultAgentStrategy.cpp"
 #endif //PA5GAME_DEFAULTAGENTSTRATEGY_H

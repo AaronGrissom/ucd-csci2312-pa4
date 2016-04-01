@@ -43,5 +43,5 @@ namespace Testing {
 
 }
 
-
+#include "ErrorContext.cpp"
 #endif //PA5GAME_ERRORCONTEXT_H

@@ -32,5 +32,5 @@ namespace Gaming {
 
 }
 
-
+#include "Strategic.cpp"
 #endif //PA5GAME_STRATEGIC_H

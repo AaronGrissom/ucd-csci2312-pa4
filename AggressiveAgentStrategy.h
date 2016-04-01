@@ -23,5 +23,5 @@ namespace Gaming {
 
 }
 
-
+#include "AggressiveAgentStrategy.cpp"
 #endif //PA5GAME_AGGRESSIVEAGENTSTRATEGY_H

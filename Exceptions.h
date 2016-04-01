@@ -79,5 +79,5 @@ namespace Gaming {
 }
 
 
-
+#include "Exceptions.cpp"
 #endif //PA5GAME_EXCEPTIONS_H

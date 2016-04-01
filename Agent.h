@@ -36,5 +36,5 @@ namespace Gaming {
 
 }
 
-
+#include "Agent.cpp"
 #endif //PA5GAME_AGENT_H

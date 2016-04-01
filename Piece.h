@@ -56,5 +56,5 @@ namespace Gaming {
     };
 }
 
-
+#include "Piece.cpp"
 #endif //PA5GAME_GAMEUNIT_H

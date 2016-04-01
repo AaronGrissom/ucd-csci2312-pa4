@@ -110,5 +110,5 @@ namespace Gaming {
 
 }
 
-
+#include "Game.cpp"
 #endif //PA5GAME_GAME_H

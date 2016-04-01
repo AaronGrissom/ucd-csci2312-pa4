@@ -64,4 +64,5 @@ void test_game_randomization(ErrorContext &ec, unsigned int numRuns);
 // Playing and termination of a game
 void test_game_play(ErrorContext &ec, unsigned int numRuns);
 
+#include "GamingTests.cpp"
 #endif //PA5GAME_GAMINGTESTS_H

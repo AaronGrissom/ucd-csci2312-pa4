@@ -28,5 +28,5 @@ namespace Gaming {
     };
 }
 
-
+#include "Advantage.cpp"
 #endif //PA5GAME_WEAPON_H

@@ -6,7 +6,6 @@
 #include <cassert>
 #include <regex>
 
-#include "GamingTests.h"
 #include "ErrorContext.h"
 #include "Game.h"
 #include "Exceptions.h"
