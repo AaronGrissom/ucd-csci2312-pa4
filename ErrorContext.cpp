@@ -16,8 +16,6 @@
 #include <sstream>
 #include <set>
 
-#include "ErrorContext.h"
-
 using std::string;
 using std::ios;
 using std::endl;
