@@ -1,4 +1,4 @@
-//class Strategic : public Agent {
+//class Strategic : public Agent
     //public:
         Gaming::Strategic::Strategic(const Game &g, const Position &p, double energy, Strategy *s = new DefaultAgentStrategy())
         {

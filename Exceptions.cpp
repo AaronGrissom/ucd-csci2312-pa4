@@ -1,15 +1,11 @@
 //class GamingException 
     //protected:
-        /*virtual*/ void Gaming::GamingException::__print_args(std::ostream &os) const = 0
-        {
-            
-        }
         void Gaming::GamingException::setName(std::string name)
         {
             
         }
     //public:
-        /*friend*/ std::ostream Gaming::GamingException::&operator<<(std::ostream &os, const GamingException &ex)
+        /*friend*/ std::ostream &operator<<(std::ostream &os, const GamingException &ex)
         {
             
         }

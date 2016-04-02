@@ -1,4 +1,4 @@
-//class Resource : public Piece {
+//class Resource : public Piece
     //public:
         Gaming::Resource::Resource(const Game &g, const Position &p, double capacity);=
         {
@@ -20,7 +20,6 @@
         {
             
         }
-
         // note: these won't be called while resources don't move
         Piece Gaming::Resource::&operator*(Piece &other) override final
         {

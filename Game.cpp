@@ -122,7 +122,7 @@
             {
                 
             }
-            /*friend*/ std::ostream Gaming::Game::&operator<<(std::ostream &os, const Game &game)
+            /*friend*/ std::ostream &operator<<(std::ostream &os, const Game &game)
             {
                 
             }

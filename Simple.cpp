@@ -1,5 +1,5 @@
-//class Simple : public Agent {
-    public:
+//class Simple : public Agent
+    //public:
         Gaming::Simple::Simple(const Game &g, const Position &p, double energy)
         {
             
