@@ -7,16 +7,16 @@ Gaming::Advantage::~Advantage()
     
 }
 
-Gaming::Advantage::void print(std::ostream &os) const override
+void Gaming::Advantage::print(std::ostream &os) const override
 {
     
 }
 
-Gaming::Advantage::double getCapacity() const override
+double Gaming::Advantage::getCapacity() const override
 {
     
 }
-Gaming::Advantage::double consume() override
+double Gaming::Advantage::consume() override
 {
     
 }

@@ -6,7 +6,7 @@ Gaming::DefaultAgentStrategy::~DefaultAgentStrategy()
 {
     
 }
-Gaming::DefaultAgentStrategy::ActionType operator()(const Surroundings &s) const override
+ActionType Gaming::DefaultAgentStrategy::operator()(const Surroundings &s) const override
 {
     
 }

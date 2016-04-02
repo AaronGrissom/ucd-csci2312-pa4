@@ -9,19 +9,19 @@ Gaming::Agent::~Agent()
 {
     
 }
-Gaming::Agent::void age() override final
+void Gaming::Agent::age() override final
 {
     
 }
-Gaming::Agent::Piece &operator*(Piece &other) override final
+Piece Gaming::Agent::&operator*(Piece &other) override final
 {
     
 }
-Gaming::Agent::Piece &interact(Agent *) override final
+Piece Gaming::Agent::&interact(Agent *) override final
 {
     
 }
-Gaming::Agent::Piece &interact(Resource *) override final
+Piece Gaming::Agent::&interact(Resource *) override final
 {
     
 }

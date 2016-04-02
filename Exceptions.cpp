@@ -9,7 +9,7 @@
             
         }
     //public:
-        /*friend*/ std::ostream &Gaming::GamingException::operator<<(std::ostream &os, const GamingException &ex)
+        /*friend*/ std::ostream Gaming::GamingException::&operator<<(std::ostream &os, const GamingException &ex)
         {
             
         }
@@ -55,7 +55,7 @@
             
         }
     //public:
-        Gaming::InsufficientDimensionsEx::OutOfBoundsEx(unsigned maxWidth, unsigned maxHeight, unsigned width, unsigned height)
+        Gaming::OutOfBoundsEx::OutOfBoundsEx(unsigned maxWidth, unsigned maxHeight, unsigned width, unsigned height)
         {
             
         }
@@ -67,7 +67,7 @@
             
         }
     //public:
-        Gaming::PositionE::PositionEx(unsigned x, unsigned y)
+        Gaming::PositionEx::PositionEx(unsigned x, unsigned y)
         {
             
         }

@@ -6,7 +6,7 @@ Gaming::AggressiveAgentStrategy::~AggressiveAgentStrategy()
 {
     
 }
-Gaming::AggressiveAgentStrategy::ActionType operator()(const Surroundings &s) const override
+ActionType Gaming::AggressiveAgentStrategy::operator()(const Surroundings &s) const override
 {
     
 }
